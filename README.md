@@ -27,4 +27,4 @@ In this repository I will be implementing a simple microservices application tha
     - **Swagger**: For API documentation
 
 ## Implementation Overview
-![Library Service](./docs/imgs/LogicalView.svg)
+![Library Service](./docs/imgs/logical-view.svg)
